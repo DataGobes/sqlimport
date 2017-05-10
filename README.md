@@ -1,2 +1,2 @@
 # sqlimport
-some sql scripts
+some basic python sql scripts
